@@ -3,4 +3,4 @@ GUI application for the [Gefen 4x1 DVI KVM DL Video Switcher](http://www.gefen.c
 Communicates through serial I/O.  
 Built with Qt 5.6.  
 
-Developed for Digital Dome at the Institute of American Indian Arts (IAIA).  
+Developed for the Digital Dome at the Institute of American Indian Arts (IAIA).  
